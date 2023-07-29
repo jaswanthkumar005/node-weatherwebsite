@@ -87,5 +87,5 @@ app.get('*', (req, res) => {
     //res.sendFile(path.join(__dirname, '/public/help.html'))
 })
 app.listen(port, () => {
-    console.log('Server is up !')
+    console.log('Server is up deployed check !')
 })
